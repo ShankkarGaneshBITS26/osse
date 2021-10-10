@@ -1,37 +1,162 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noodp">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
-You can use the [editor on GitHub](https://github.com/ShankkarGaneshBITS26/osse/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+        <!-- PAGE TITLE -->
+        <title>About - Mr Shan Gan</title>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+        <!-- FAVICON -->
+        <link rel="shortcut icon" href="assets/img/favicon.png">
 
-### Markdown
+        <!-- FONTS -->
+        <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900&amp;subset=latin-ext" rel="stylesheet">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+        <!-- STYLESHEETS -->
+        <link rel="stylesheet" type="text/css" href="assets/css/plugins.css">
+        <link rel="stylesheet" type="text/css" href="assets/css/main.css">
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+    </head>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+    <body class="contains-hero main-page">
+    
+       
+        <!-- PRELOADER -->
+        <div class="preloader">
+           
+           
+            <!-- SPINNER -->
+            <div class="spinner">
+             
+              <div class="bounce-1"></div>
+              <div class="bounce-2"></div>
+              <div class="bounce-3"></div>
+              
+            </div>
+            <!-- /SPINNER -->
+            
+            
+        </div>
+        <!-- /PRELOADER -->
+        
+        <!-- HERO -->
+        <div class="hero">
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+            <!-- FRONT CONTENT -->
+            <div class="front-content">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+                <!-- CONTAINER MID -->
+                <div class="container-mid">
+                    
+                    
+                    <!-- ANIMATION CONTAINER -->
+                    <div class="animation-container animation-fade-right" data-animation-delay="0">
+                        
+                        <h1>Shankkar Ganesh</h1>
+                        
+                    </div>
+                    <!-- /ANIMATION CONTAINER -->
+                    
+                    
+                    <!-- ANIMATION CONTAINER -->
+                    <div class="animation-container animation-fade-left" data-animation-delay="200"> 
+                       
+                        <p class="subline">Scroll Down To Know About Me</p>
+                        
+                    </div>
+                    <!-- /ANIMATION CONTAINER -->
+                    
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShankkarGaneshBITS26/osse/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+                </div>
+                <!-- /CONTAINER MID -->
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+            </div>
+            <!-- /FRONT CONTENT -->
+
+
+            <!-- BACKGROUND CONTENT -->
+            <div class="background-content parallax-on">
+                
+                
+                <!-- BACKGROUND CONTENT INNER -->
+                <div class="background-content-inner">
+
+                    <div class="background-overlay"></div>
+                    <div class="background-img layer" data-depth="0.05"></div>
+                
+                </div>
+                <!-- /BACKGROUND CONTENT INNER -->
+                
+                
+            </div>
+            <!-- /BACKGROUND CONTENT -->
+
+
+        </div>
+        <!-- /HERO -->
+        
+        
+        <!-- PORTFOLIO -->
+        <div class="portfolio">
+            
+            
+            <!-- ITEM -->
+            <a class="item scroll-animated-from-bottom" href="work.html">
+               
+                <i class="fa fa-eye" aria-hidden="true"></i>
+                <div class="item-cover" style="background-image: url(assets/img/work.png)"></div>
+                
+            </a>
+            <!-- /ITEM -->
+            
+            
+            <!-- ITEM -->
+            <a class="item scroll-animated-from-bottom" href="education.html">
+               
+                <i class="fa fa-eye" aria-hidden="true"></i>
+                <div class="item-cover" style="background-image: url(assets/img/edu.jpg)"></div>
+                
+            </a>
+            <!-- /ITEM -->
+            
+            
+            
+            
+        </div>
+        <!-- /PORTFOLIO -->
+        
+        
+        <!-- FOOTER -->
+        <div class="footer">
+            
+            
+            <!-- FOOTER INNER -->
+            <div class="footer-inner scroll-animated-from-bottom">
+
+                <p>Contact @ shankkarganesh.s@gmail.com | 9444986858</p>
+                <i class="fa fa-angle-double-up scroll-top" aria-hidden="true"></i>
+            
+            </div>
+            <!-- /FOOTER INNER -->
+            
+
+        </div>
+        <!-- /FOOTER -->
+
+
+        <!-- JAVASCRIPTS -->
+        <script type="text/javascript" src="assets/js/plugins.js"></script>
+        <script type="text/javascript" src="assets/js/main.js"></script>
+
+
+    </body> 
+    
+    
+</html>
